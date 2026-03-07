@@ -1,0 +1,33 @@
+.Sites{
+    margin: 80px auto;
+    width: 90%;
+    text-align: center; /* center contents including button */
+}
+.recent-work{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.recent-work img{
+    width: 23%;
+    border-radius: 10px;
+}
+
+/* ensure the dark button inside Sites centers itself */
+.Sites .btn.dark-btn {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+/* responsive */
+@media (max-width: 800px){
+    .recent-work{
+        flex-wrap: wrap;
+
+    }
+    .recent-work img{
+        width: 48%;
+        margin-bottom: 25px;
+    }
+}

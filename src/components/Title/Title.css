@@ -1,0 +1,25 @@
+/* Center title and subtitle */
+.title{
+	text-align: center;
+	margin: 70px 0 30px;
+	color: #212EA0;
+	font-size: 15px;
+	font-weight: 600;
+	text-transform: uppercase;
+
+}
+.title p{
+	color: #6b7280;
+	font-size: 14px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.title h2{
+	color: #000F38;
+	font-size: 32px;
+	margin-top: 5px;
+	line-height: 1.1;
+	text-transform: none;
+}
+
