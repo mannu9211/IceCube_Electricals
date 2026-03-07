@@ -1,8 +1,3 @@
-Here is a **professional `README.md` content** you can use for your **Ice Cube Refrigeration & Electricals Website** GitHub repository.
-
-You can copy and paste it into your **README.md** file.
-
----
 
 # Ice Cube Refrigeration & Electricals Website
 
