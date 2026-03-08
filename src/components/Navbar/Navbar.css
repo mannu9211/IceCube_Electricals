@@ -66,6 +66,7 @@ nav ul li{
         cursor: pointer;
         position: relative;
         z-index: 11;
+        margin-right: 15px;
     }
     .hide-mobile-menu{
         right: -200px;
