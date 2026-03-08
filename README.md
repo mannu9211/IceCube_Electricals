@@ -1,16 +1,125 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ice Cube Refrigeration & Electricals Website
 
-Currently, two official plugins are available:
+A responsive business website developed for **Ice Cube Refrigeration & Electricals**, a service provider offering professional refrigeration and electrical solutions for residential, commercial, and government premises.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This website showcases the company’s services, work gallery, testimonials, and contact details to help customers easily explore services and get in touch.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# About the Business
 
-## Expanding the ESLint configuration
+**Ice Cube Refrigeration & Electricals** provides installation, repair, and maintenance services for:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Air Conditioners
+* Refrigerators
+* Deep Freezers
+* Electrical Wiring and Systems
+
+The company primarily operates in **Patna, Bihar**, and nearby districts including:
+
+* Gaya
+* Vaishali
+* Bhojpur
+* Other surrounding areas
+
+They also provide **maintenance services for government and private premises on a contract basis**.
+
+---
+
+# Website Features
+
+* Modern and responsive UI design
+* Service section showcasing refrigeration and electrical services
+* About section with company information
+* Work gallery displaying service-related images
+* Customer testimonials section
+* Contact section for customer inquiries
+
+---
+
+# Technologies Used
+
+* **React.js**
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+
+---
+
+# Purpose of the Project
+
+The purpose of this project is to create a professional online presence for **Ice Cube Refrigeration & Electricals** so customers can:
+
+* Learn about the services offered
+* View previous work
+* Read customer feedback
+* Contact the business easily
+
+---
+
+# Project Structure
+
+```
+icecubeelectricals
+│
+├── public
+├── src
+│   ├── components
+│   ├── assets
+│   ├── pages
+│   └── App.js
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# Installation and Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mannu9211/IceCube_Electricals.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd IceCube_Electricals
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm start
+```
+
+---
+
+# Future Improvements
+
+* Online service booking system
+* WhatsApp contact integration
+* SEO optimization
+* Google Maps location integration
+
+---
+
+# Author
+
+Mannu Kumar
+BTech CSE Student
+Parul University
+
+GitHub:
+[https://github.com/mannu9211](https://github.com/mannu9211)
+
+
