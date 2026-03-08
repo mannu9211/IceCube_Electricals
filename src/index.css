@@ -43,6 +43,13 @@ a{
   
 }
 
+.whatsapp-button{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 6;
+}
+
 /* Responsive */
 @media(max-width: 1000px){
   .container{

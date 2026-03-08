@@ -9,12 +9,14 @@ import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
+import whatsapplogo from './assets/whatsapp.png'
 
 const App = () => {
 
   const [playState, setPlayState] = useState(false);
 
   return (
+  <>
     <div>
       <Navbar />
       <Hero />
@@ -32,6 +34,12 @@ const App = () => {
       </div>
       <VideoPlayer playState={playState} setPlayState={setPlayState} />
     </div>
+    <div className="whatsapp-button">
+      <a href="https://wa.me/7644806099?text=Hello, How  can I help you?" target="_blank" rel="noreferrer">
+        <img src={whatsapplogo} width="60" alt="WhatsApp" />
+      </a>
+    </div>
+    </>
   )
 }
 
